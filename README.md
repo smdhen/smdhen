@@ -15,20 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋 , Call me SMD HEN.
 
+<h1 align="center">Hi there 👋, I'm smdhen</h1>
 
- Data scientist | Data Analysist | Python Data Developer | AI Enthusist | Math & Optimization Lover
- 
- My skill are Like 
-
-Python - Data modelling, Machine learning (ML) , Deep Learning (DL) , Deep Rieforcement Learing (DRL) , NLP , Power Bi (PB) , SQL ,ETL ...
-
-
-
-
-<h1 align="center">Hi 👋, I'm smdhen</h1>
 <h3 align="center">Data scientist | Data Analysist | Python Data Developer | AI Enthusist | Math & Optimization Lover</h3>
+
+ 
+ My skill are Like  : Python - Data modelling, Machine learning (ML) , Deep Learning (DL) , Deep Rieforcement Learing (DRL) , NLP , Power Bi (PB) , SQL ,ETL ...
+
+
+
+
 <img align="right" alt="datascienc" width="290" src="https://indoanalytica.com/static/images/data-science-1.gif">
 
 
